@@ -490,8 +490,6 @@
 | **Hyper** | 基于 Web 技术构建的终端 | [GitHub](https://github.com/zeit/hyper) / [官网](https://hyper.is) | mac, win, linux |
 | **Tabby** | 现代化终端工具，支持 SSH 和 SFTP | [GitHub](https://github.com/Eugeny/tabby) / [官网](https://tabby.sh) | mac, win, linux |
 | **Wave** | 内置文件预览和 AI 工具的终端 | [GitHub](https://github.com/wavetermdev/waveterm) / [官网](https://www.waveterm.dev) | mac, win, linux |
-| **Homebrew** | macOS 缺失的软件包管理器 | [GitHub](https://github.com/Homebrew/brew/) / [官网](https://brew.sh/) | mac |
-| **MacPorts** | 开源软件包管理与安装系统 | [GitHub](https://github.com/macports/) / [官网](https://www.macports.org/) | mac |
 
 ### 版本控制
 
