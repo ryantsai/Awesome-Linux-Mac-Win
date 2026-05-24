@@ -486,6 +486,7 @@
 | **Alacritty** | 跨平台 GPU 加速终端模拟器 | [GitHub](https://github.com/jwilm/alacritty) / [官网](https://alacritty.org) | mac, win, linux |
 | **Ghostty** | 高速 GPU 加速终端，支持原生 UI | [GitHub](https://github.com/ghostty-org/ghostty) / [官网](https://ghostty.org) | mac, linux |
 | **WezTerm** | Rust 实现的 GPU 加速跨平台终端 | [GitHub](https://github.com/wez/wezterm) / [官网](https://wezfurlong.org/wezterm/) | mac, win, linux |
+| **KKTerm** | Windows-first 本地管理工作台，整合终端、SSH、SFTP/FTP、RDP/VNC、仪表盘和审批式 AI 工具 | [GitHub](https://github.com/ryantsai/KKTerm) / [官网](https://ryantsai.github.io/KKTerm/) | win |
 | **Kitty** | 功能丰富的 GPU 终端模拟器 | [GitHub](https://github.com/kovidgoyal/kitty) / [官网](https://sw.kovidgoyal.net/kitty/) | mac, linux |
 | **Hyper** | 基于 Web 技术构建的终端 | [GitHub](https://github.com/zeit/hyper) / [官网](https://hyper.is) | mac, win, linux |
 | **Tabby** | 现代化终端工具，支持 SSH 和 SFTP | [GitHub](https://github.com/Eugeny/tabby) / [官网](https://tabby.sh) | mac, win, linux |
